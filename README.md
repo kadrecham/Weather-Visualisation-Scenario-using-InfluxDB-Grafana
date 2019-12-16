@@ -4,6 +4,8 @@
 ### Summary:
 Visualizing the weather for different areas.
 
+![alt tag](https://user-images.githubusercontent.com/25906706/28717761-62622e30-73a3-11e7-85d0-ebf1be75e0b6.png)
+
 ### Goals:
 Getting introduction to data visualization tools.
 
@@ -39,4 +41,3 @@ Getting introduction to data visualization tools.
 - Add data source by selecting the *type of database* `InfluxDB` and specifying the *Url* `localhost:8086` or that define where the InfluxDB run. Should also provide the *name of database* whitch you already have created `local_temp`, in addition to *username* and *password*.
 - Import the json file (*dashboard configuration*) from our package to Grafana to get our dashboard which visualizes the weather, or create your own.  
 
-![alt tag](https://github.wdf.sap.corp/storage/user/24134/files/bce8828c-148a-11e7-902a-1276f85c0262)
